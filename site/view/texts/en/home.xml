@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+
+<!-- NAVIGATION -->
+	<nav_1>Collection</nav_1>
+		<nav_1-1>Tables</nav_1-1>
+		<nav_1-2>Chairs</nav_1-2>
+		<nav_1-3>Cabinets</nav_1-3>
+		<nav_1-4>Accessories</nav_1-4>
+		<nav_1-5>Designers</nav_1-5>
+
+	<nav_2>Projects</nav_2>
+		<nav_2-1>Office</nav_2-1>
+		<nav_2-2>Education</nav_2-2>
+		<nav_2-3>Healthcare</nav_2-3>
+		<nav_2-4>Living</nav_2-4>
+		<nav_2-5>Hospitality</nav_2-5>
+
+	<nav_3>Services</nav_3>
+		<nav_3-1>Creation Phase</nav_3-1>
+		<nav_3-2>Relation Phase</nav_3-2>
+		<nav_3-3>Utilisation Phase</nav_3-3>
+		<nav_3-4>References</nav_3-4>
+
+	<nav_4>Gispen</nav_4>
+		<nav_4-1>Circular Economy</nav_4-1>
+		<nav_4-2>News</nav_4-2>
+		<nav_4-3>About Us</nav_4-3>
+		<nav_4-4>Showrooms</nav_4-4>
+
+
+
+<!-- JUMBOTRON -->
+	<jumbo-header>Life At Work</jumbo-header>
+	<jumbo-text>Work to live or live to work?</jumbo-text>
+	<jumbo-btn>Read our Philosophy</jumbo-btn>
+
+
+<!-- MAIN -->
+	<!-- ROW 1 -->
+		<block_1-1-header>Work</block_1-1-header>
+		<block_1-1-para>Creative boost while enjoying work</block_1-1-para>
+		<block_1-1-link>GO TO ‘WORK’</block_1-1-link>
+
+		<block_1-2-header>Learn</block_1-2-header>
+		<block_1-2-para>Provide and follow inspiring education</block_1-2-para>
+		<block_1-2-link>GO TO ‘LEARN’</block_1-2-link>
+
+		<block_1-3-header>Care</block_1-3-header>
+		<block_1-3-para>Gispen has been supporting healthcare since 1916</block_1-3-para>
+		<block_1-3-link>GO TO ‘CARE’</block_1-3-link>
+
+		<block_1-4-header>Live</block_1-4-header>
+		<block_1-4-para>Comfortable living is our expertise</block_1-4-para>
+		<block_1-4-link>GO TO ‘LIVE’</block_1-4-link>
+
+
+	<!-- ROW 2 -->
+		<row2-header>Always a customized solution</row2-header>
+		<row2-para>People perform better in an optimal environment. This is our philosophy. Whether it be their working environment, living or caring. We create this optimal environment by following a muti-phase working process. We guide you from inspiration all the way to realization. Your work, learn and care processes are the primary focus for the solutions that we offer: A comfortable and functional environment.</row2-para>
+
+		<row2-text-para>‘Our new interior gives inspiration for that many more ideas’</row2-text-para>
+		<row2-btn>Visit one of our reference projects here</row2-btn>
+
+
+	<!-- ROW 3 -->
+		<row3-header>More examples:</row3-header>
+
+		<block_3-1-header>Clients and Gispen; A new way of working</block_3-1-header>
+		<block_3-1-para>Another wonderful project.</block_3-1-para>
+		<block_3-1-link>READ MORE</block_3-1-link>
+
+		<block_3-2-header>Designer ‘Peter van de Water’</block_3-2-header>
+		<block_3-2-para>Designs diversify themselves through their intelligent simplicity</block_3-2-para>
+		<block_3-2-link>SEE HIS PRODUCTS</block_3-2-link>
+
+		<block_3-3-header>Start somewhere, start changing: that is Circular Economy</block_3-3-header>
+		<block_3-3-para>Get a different look at ‘value’</block_3-3-para>
+		<block_3-3-link>READ MORE</block_3-3-link>
+
+
+	<!-- ROW 4 -->
+		<row4-header>Gispen for everyone</row4-header>
+		<row4-para>Through our furniture you can create an individual atmosphere and comfortness at home. Designed by talented designer, following the way of ‘playing of tradition’. Playful, functional and sustainable.</row4-para>
+
+		<block_4-1-header>Coming home</block_4-1-header>
+		<block_4-1-para>Feeling at home, at home with Gispen</block_4-1-para>
+		<block_4-1-link>READ MORE</block_4-1-link>
+
+		<block_4-2-header>Join the table</block_4-2-header>
+		<block_4-2-para>Make an experience out of your dinner time</block_4-2-para>
+		<block_4-2-link>READ MORE</block_4-2-link>
+
+		<block_4-3-header>Passion for Steel</block_4-3-header>
+		<block_4-3-para>Design to order</block_4-3-para>
+		<block_4-3-link>READ MORE</block_4-3-link>
+
+		<block_4-4-header>A new way of working</block_4-4-header>
+		<block_4-4-para>Work where-ever; when-ever. Keeping knowledge in the company</block_4-4-para>
+		<block_4-4-link>READ MORE</block_4-4-link>
+
+		<block_4-5-header>Be inspired by CSR</block_4-5-header>
+		<block_4-5-para>Gain from wastage: New business models for sustainable growth</block_4-5-para>
+		<block_4-5-link>READ MORE</block_4-5-link>
+
+		<block_4-6-header>Relaxing</block_4-6-header>
+		<block_4-6-para>Your furniture for your ‘peace of mind’</block_4-6-para>
+		<block_4-6-link>READ MORE</block_4-6-link>
+
+
+	<!-- ROW 5 -->
+		<row5-header>A name to be proud to be proud</row5-header>
+		<row5-para>Already for 100 years we have been coming ourselves. Many of the designs of Mr. Willem Hendrik Gispen have become ‘classics’ over time. They are celebrated in many history books all around the world. And still, every year new products come of the drawing board. Designed for the future, and destined to become classics of their own.</row5-para>
+
+		<block_5-1-header>1933</block_5-1-header>
+		<block_5-1-name>The 405</block_5-1-name>
+		<block_5-1-para>Stubborn, characteristics and as much comfortness as all other heritage of W.H. Gispen</block_5-1-para>
+		<block_5-1-link>READ MORE</block_5-1-link>
+
+		<block_5-2-header>1931</block_5-2-header>
+		<block_5-2-name>The 201</block_5-2-name>
+		<block_5-2-para>One of the Gispen classics. Copied by many, matched by no-one.</block_5-2-para>
+		<block_5-2-link>READ MORE</block_5-2-link>
+
+		<block_5-3-header>1934</block_5-3-header>
+		<block_5-3-name>The 412</block_5-3-name>
+		<block_5-3-para>An Easychair pur sang, forever.</block_5-3-para>
+		<block_5-3-link>READ MORE</block_5-3-link>
+
+
+<!-- FOOTER -->
+	<footer-social>Follow us on Social Media</footer-social>
+	<footer-language>Your Language:</footer-language>
+</langue>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

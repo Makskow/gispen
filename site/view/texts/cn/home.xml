@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langue>
+
+<!-- NAVIGATION -->
+	<nav_1>汇总</nav_1>
+		<nav_1-1>桌子</nav_1-1>
+		<nav_1-2>椅子</nav_1-2>
+		<nav_1-3>橱柜</nav_1-3>
+		<nav_1-4>配件</nav_1-4>
+		<nav_1-5>设计师</nav_1-5>
+
+	<nav_2>项目</nav_2>
+		<nav_2-1>办公室</nav_2-1>
+		<nav_2-2>教育</nav_2-2>
+		<nav_2-3>医疗保健</nav_2-3>
+		<nav_2-4>生活</nav_2-4>
+		<nav_2-5>好客</nav_2-5>
+
+	<nav_3>服务</nav_3>
+		<nav_3-1>创立期</nav_3-1>
+		<nav_3-2>关系期</nav_3-2>
+		<nav_3-3>使用期</nav_3-3>
+		<nav_3-4>成功案例</nav_3-4>
+
+	<nav_4>Gispen</nav_4>
+		<nav_4-1>循环经济</nav_4-1>
+		<nav_4-2>新闻</nav_4-2>
+		<nav_4-3>关于我们</nav_4-3>
+		<nav_4-4>展览室</nav_4-4>
+
+
+
+<!-- JUMBOTRON -->
+	<jumbo-header>工作生活</jumbo-header>
+	<jumbo-text>工作为了生活或生活为了工作？</jumbo-text>
+	<jumbo-btn>阅读我们的理念</jumbo-btn>
+
+
+<!-- MAIN -->
+	<!-- ROW 1 -->
+		<block_1-1-header>工作</block_1-1-header>
+		<block_1-1-para>在享受工作的同时，提升创意</block_1-1-para>
+		<block_1-1-link>开始 “工作”</block_1-1-link>
+
+		<block_1-2-header>学习</block_1-2-header>
+		<block_1-2-para>提供和效仿启发式教育</block_1-2-para>
+		<block_1-2-link>开始“学习”</block_1-2-link>
+
+		<block_1-3-header>关怀</block_1-3-header>
+		<block_1-3-para>从1916年开始，Gispen 就一直支持医疗保健。</block_1-3-para>
+		<block_1-3-link>开始“关怀”</block_1-3-link>
+
+		<block_1-4-header>生活</block_1-4-header>
+		<block_1-4-para>提供舒适的生活是我们的专长。</block_1-4-para>
+		<block_1-4-link>开始“生活”</block_1-4-link>
+
+
+	<!-- ROW 2 -->
+		<row2-header>始终提供用户化的解决方案</row2-header>
+		<row2-para>在最佳环境下，人们的办事效率将更高，这是我们的理念。不论这是他们的工作、生活或关怀环境，通过多层工作流程，我们创造出这个最佳环境。从灵感到现实，我们一直引导你们。通过关注您的工作、学习和关怀流程，我们为您提供解决方案：提供一个舒适和功能性的环境。</row2-para>
+
+		<row2-text-para>‘我们全新的内饰为更多的创意提供灵感’</row2-text-para>
+		<row2-btn>请在此访问我们其中一个成功案例</row2-btn>
+
+
+	<!-- ROW 3 -->
+		<row3-header>更多的例子：</row3-header>
+
+		<block_3-1-header>客户 与 Gispen；一种新的工作方式</block_3-1-header>
+		<block_3-1-para>另一个精彩的项目</block_3-1-para>
+		<block_3-1-link>阅读更多</block_3-1-link>
+
+		<block_3-2-header>设计师 ‘Peter van de Water’</block_3-2-header>
+		<block_3-2-para>通过智能简单化，使设计本身变得多样化</block_3-2-para>
+		<block_3-2-link>浏览他的产品</block_3-2-link>
+
+		<block_3-3-header>从开始的地方，开始改变： 这就是循环经济</block_3-3-header>
+		<block_3-3-para>“价值” 的另外一个视角</block_3-3-para>
+		<block_3-3-link>阅读更多</block_3-3-link>
+
+
+	<!-- ROW 4 -->
+		<row4-header>大家的Gispen</row4-header>
+		<row4-para>通过我们的家具，您可以在家创造具有个人气氛的舒适环境。由才华横溢的设计师设计，遵循“把玩传统”的方式，让产品具备趣味性、功能性和可持续。</row4-para>
+
+		<block_4-1-header>回家</block_4-1-header>
+		<block_4-1-para>在家的感觉，与 Gispen一起在家感受</block_4-1-para>
+		<block_4-1-link>阅读更多</block_4-1-link>
+
+		<block_4-2-header>加入餐桌</block_4-2-header>
+		<block_4-2-para>在正餐时间外的一个体验</block_4-2-para>
+		<block_4-2-link>阅读更多</block_4-2-link>
+
+		<block_4-3-header>喜爱简单</block_4-3-header>
+		<block_4-3-para>根据订单设计</block_4-3-para>
+		<block_4-3-link>阅读更多</block_4-3-link>
+
+		<block_4-4-header>一种新的工作方式</block_4-4-header>
+		<block_4-4-para>随时随地工作。在公司内不断学习。</block_4-4-para>
+		<block_4-4-link>阅读更多</block_4-4-link>
+
+		<block_4-5-header>受企业社会责任而获得启发</block_4-5-header>
+		<block_4-5-para>从损耗中获益：可持续增长的新业务模式</block_4-5-para>
+		<block_4-5-link>阅读更多</block_4-5-link>
+
+		<block_4-6-header>放松</block_4-6-header>
+		<block_4-6-para>您的家具遵循您的“部分思维”</block_4-6-para>
+		<block_4-6-link>阅读更多</block_4-6-link>
+
+
+	<!-- ROW 5 -->
+		<row5-header>一个自豪的名字</row5-header>
+		<row5-para>100多年来，我们一直在做自己。随着时间的推移，Willem Hendrik Gispen 先生的许多设计已经成为了“经典”。 他的设计在全世界许多史书上留名。并且，每年有许多新产品来自制图版。为未来而设计，注定成为经典本身。</row5-para>
+
+		<block_5-1-header>1933</block_5-1-header>
+		<block_5-1-name>405</block_5-1-name>
+		<block_5-1-para>固执，有特色并且与W.H. Gispen 其他的所有作品一样舒适。</block_5-1-para>
+		<block_5-1-link>阅读更多</block_5-1-link>
+
+		<block_5-2-header>1931</block_5-2-header>
+		<block_5-2-name>201</block_5-2-name>
+		<block_5-2-para>Gispen 经典之一。 一直被人们模仿，但从未被超越。</block_5-2-para>
+		<block_5-2-link>阅读更多</block_5-2-link>
+
+		<block_5-3-header>1934</block_5-3-header>
+		<block_5-3-name>412</block_5-3-name>
+		<block_5-3-para>纯粹的安乐椅，永远的。</block_5-3-para>
+		<block_5-3-link>阅读更多</block_5-3-link>
+
+
+<!-- FOOTER -->
+	<footer-social>在社交媒体上跟随我们</footer-social>
+	<footer-language>您的语言：</footer-language>
+</langue>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

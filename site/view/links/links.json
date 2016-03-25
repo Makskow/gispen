@@ -1,0 +1,131 @@
+var link='{ "links" : [' +
+
+				// NAVIGATION
+				'{"id" : "nav_1-1", "address" : "www.google.com"},' +
+				'{"id" : "nav_1-2", "address" : "www.facebook.com"},' +
+				'{"id" : "nav_1-3", "address" : "www.youtube.com"},' +
+				'{"id" : "nav_1-4", "address" : "www.onet.pl"},' +
+				'{"id" : "nav_1-5", "address" : "www.gmail.com"},' +
+				
+				'{"id" : "nav_2-1", "address" : "#"},' +
+				'{"id" : "nav_2-2", "address" : "#"},' +
+				'{"id" : "nav_2-3", "address" : "#"},' +
+				'{"id" : "nav_2-4", "address" : "#"},' +
+				'{"id" : "nav_2-5", "address" : "#"},' +
+
+				'{"id" : "nav_3-1", "address" : "#"},' +
+				'{"id" : "nav_3-2", "address" : "#"},' +
+				'{"id" : "nav_3-3", "address" : "#"},' +
+				'{"id" : "nav_3-4", "address" : "#"},' +
+
+				'{"id" : "nav_4-1", "address" : "#"},' +
+				'{"id" : "nav_4-2", "address" : "#"},' +
+				'{"id" : "nav_4-3", "address" : "#"},' +
+				'{"id" : "nav_4-4", "address" : "#"},' +
+
+
+
+				// JUMBOTRON
+				'{"id" : "jumbo-btn", "address" : "#"},' +
+
+
+				// ROW 1
+				'{"id" : "block_1-1-a", "address" : "#"},' +
+				'{"id" : "block_1-2-a", "address" : "#"},' +
+				'{"id" : "block_1-3-a", "address" : "#"},' +
+				'{"id" : "block_1-4-a", "address" : "#"},' +
+
+
+				// ROW 2
+				'{"id" : "row2-box-b", "address" : "#"},' +
+
+
+
+				// ROW 3
+				'{"id" : "block_3-1-a", "address" : "#"},' +
+				'{"id" : "block_3-2-a", "address" : "#"},' +
+				'{"id" : "block_3-3-a", "address" : "#"},' +
+				'{"id" : "block_3-1-b", "address" : "#"},' +
+				'{"id" : "block_3-2-b", "address" : "#"},' +
+				'{"id" : "block_3-3-b", "address" : "#"},' +
+
+
+
+				// ROW 4
+				'{"id" : "block_4-1-a", "address" : "#"},' +
+				'{"id" : "block_4-2-a", "address" : "#"},' +
+				'{"id" : "block_4-3-a", "address" : "#"},' +
+				'{"id" : "block_4-4-a", "address" : "#"},' +
+				'{"id" : "block_4-5-a", "address" : "#"},' +
+				'{"id" : "block_4-6-a", "address" : "#"},' +
+
+
+
+				// ROW 5
+				'{"id" : "block_5-1-a", "address" : "#"},' +
+				'{"id" : "block_5-2-a", "address" : "#"},' +
+				'{"id" : "block_5-3-a", "address" : "#"},' +
+
+
+
+				// FOOTER SOCIAL
+				'{"id" : "social-twitter", "address" : "#"},' +
+				'{"id" : "social-linkedin", "address" : "#"},' +
+				'{"id" : "social-facebook", "address" : "#"},' +
+				'{"id" : "social-pinterest", "address" : "#"},' +
+				'{"id" : "social-youtube", "address" : "#"},' +
+				'{"id" : "social-instagram", "address" : "#"},' +
+
+
+
+				// FOOTER NAVIGATION
+				'{"id" : "footer_1-1", "address" : "#"},' +
+				'{"id" : "footer_1-2", "address" : "#"},' +
+				'{"id" : "footer_1-3", "address" : "#"},' +
+				'{"id" : "footer_1-4", "address" : "#"},' +
+				'{"id" : "footer_1-5", "address" : "#"},' +
+
+				'{"id" : "footer_2-1", "address" : "#"},' +
+				'{"id" : "footer_2-2", "address" : "#"},' +
+				'{"id" : "footer_2-3", "address" : "#"},' +
+				'{"id" : "footer_2-4", "address" : "#"},' +
+				'{"id" : "footer_2-5", "address" : "#"},' +
+
+				'{"id" : "footer_3-1", "address" : "#"},' +
+				'{"id" : "footer_3-2", "address" : "#"},' +
+				'{"id" : "footer_3-3", "address" : "#"},' +
+				'{"id" : "footer_3-4", "address" : "#"},' +
+
+				'{"id" : "footer_4-1", "address" : "#"},' +
+				'{"id" : "footer_4-2", "address" : "#"},' +
+				'{"id" : "footer_4-3", "address" : "#"},' +
+				'{"id" : "footer_4-4", "address" : "#"},' +
+
+
+
+				//FOOTER ACCORDION
+				'{"id" : "accord_1-1", "address" : "#"},' +
+				'{"id" : "accord_1-2", "address" : "#"},' +
+				'{"id" : "accord_1-3", "address" : "#"},' +
+				'{"id" : "accord_1-4", "address" : "#"},' +
+				'{"id" : "accord_1-5", "address" : "#"},' +
+
+				'{"id" : "accord_2-1", "address" : "#"},' +
+				'{"id" : "accord_2-2", "address" : "#"},' +
+				'{"id" : "accord_2-3", "address" : "#"},' +
+				'{"id" : "accord_2-4", "address" : "#"},' +
+				'{"id" : "accord_2-5", "address" : "#"},' +
+
+				'{"id" : "accord_3-1", "address" : "#"},' +
+				'{"id" : "accord_3-2", "address" : "#"},' +
+				'{"id" : "accord_3-3", "address" : "#"},' +
+				'{"id" : "accord_3-4", "address" : "#"},' +
+
+				'{"id" : "accord_4-1", "address" : "#"},' +
+				'{"id" : "accord_4-2", "address" : "#"},' +
+				'{"id" : "accord_4-3", "address" : "#"},' +
+				'{"id" : "accord_4-4", "address" : "#"}' +
+
+		']}'
+
+;
